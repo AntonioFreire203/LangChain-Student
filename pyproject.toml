@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "antonio freire"
+version = "0.1.0"
+description = "Student LangChain"
+authors = ["Antonio Freire"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.3.21"
+langchain-openai = "^0.3.10"
+dotenv = "^0.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
