@@ -1,4 +1,3 @@
-# exemplo_01_chain_simples.py
 from dotenv import load_dotenv, find_dotenv
 from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
