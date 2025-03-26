@@ -10,7 +10,7 @@ python = "^3.10"
 langchain = "^0.3.21"
 langchain-openai = "^0.3.10"
 dotenv = "^0.9.9"
-
+python-dotenv = "^1.0.1"
 
 [build-system]
 requires = ["poetry-core"]

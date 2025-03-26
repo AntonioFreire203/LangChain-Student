@@ -3,6 +3,7 @@ from langchain.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 
+
 load_dotenv(find_dotenv())
 
 llm = ChatOpenAI(model="gpt-4o-mini")
